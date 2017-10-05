@@ -1,0 +1,40 @@
+Blade Templating 1
+
+migration 1 ==> buat db (blueprint)
+
+auth 1
+php artisan
+
+CRUD 4
+Laravel Eloquent=> datatbases
+
+flash message 1
+
+UTS
+
+
+FINAL
+
+
+
+Jadwal
+kamis  jam 2
+
+Bahan
+
+
+Nilai
+kehadiran             50
+tugas/projek final	  50
+
+
+sistem penilaian taraf tinggi
+A  >= 87
+AB >= 78
+B  >= 67
+BC >= 57
+C  >= 47
+D  >= 40
+E  <  40
+
+codesaya.com
